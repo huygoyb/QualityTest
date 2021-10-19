@@ -1,0 +1,6 @@
+C:\Users\AD\RiderProjects\QualityTest\QualityTest\obj\Debug\QualityTest.csprojAssemblyReference.cache
+C:\Users\AD\RiderProjects\QualityTest\QualityTest\obj\Debug\QualityTest.csproj.CoreCompileInputs.cache
+C:\Users\AD\RiderProjects\QualityTest\QualityTest\bin\Debug\QualityTest.exe
+C:\Users\AD\RiderProjects\QualityTest\QualityTest\bin\Debug\QualityTest.pdb
+C:\Users\AD\RiderProjects\QualityTest\QualityTest\obj\Debug\QualityTest.exe
+C:\Users\AD\RiderProjects\QualityTest\QualityTest\obj\Debug\QualityTest.pdb
